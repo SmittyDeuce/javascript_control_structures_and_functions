@@ -1,7 +1,8 @@
 # javascript_control_structures_and_functions
-# Online Shopping Simulation
 
-## Overview
+## Online Shopping Simulation
+
+### Overview
 
 This project simulates a simple online shopping experience using JavaScript. The program allows users to:
 
